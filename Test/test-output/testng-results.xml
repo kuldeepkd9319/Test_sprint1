@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-25T12:42:12 IST" name="Default suite" finished-at="2024-05-25T12:42:39 IST" duration-ms="26950">
+    <groups>
+    </groups>
+    <test started-at="2024-05-25T12:42:12 IST" name="Default test" finished-at="2024-05-25T12:42:39 IST" duration-ms="26950">
+      <class name="org.automation.testing.testcases.TC_001_ValidateLoginFuntionality">
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:15 IST" name="initiateDriverInstance" finished-at="2024-05-25T12:42:23 IST" duration-ms="7914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_funtionality(java.lang.String,java.lang.String)[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:23 IST" name="tc_001_login_funtionality" data-provider="Excel" finished-at="2024-05-25T12:42:23 IST" duration-ms="554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uname1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_funtionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:23 IST" name="closeDriverInstance" finished-at="2024-05-25T12:42:24 IST" duration-ms="403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:24 IST" name="initiateDriverInstance" finished-at="2024-05-25T12:42:28 IST" duration-ms="4724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_funtionality(java.lang.String,java.lang.String)[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:28 IST" name="tc_001_login_funtionality" data-provider="Excel" finished-at="2024-05-25T12:42:29 IST" duration-ms="473" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uname2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_funtionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:29 IST" name="closeDriverInstance" finished-at="2024-05-25T12:42:29 IST" duration-ms="337" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:29 IST" name="initiateDriverInstance" finished-at="2024-05-25T12:42:34 IST" duration-ms="4299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_funtionality(java.lang.String,java.lang.String)[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:34 IST" name="tc_001_login_funtionality" data-provider="Excel" finished-at="2024-05-25T12:42:34 IST" duration-ms="372" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uname3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_funtionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:34 IST" name="closeDriverInstance" finished-at="2024-05-25T12:42:34 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method is-config="true" signature="initiateDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:34 IST" name="initiateDriverInstance" finished-at="2024-05-25T12:42:38 IST" duration-ms="4195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method signature="tc_001_login_funtionality(java.lang.String,java.lang.String)[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:38 IST" name="tc_001_login_funtionality" data-provider="Excel" finished-at="2024-05-25T12:42:39 IST" duration-ms="392" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Uname4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_001_login_funtionality -->
+        <test-method is-config="true" signature="closeDriverInstance()[pri:0, instance:org.automation.testing.testcases.TC_001_ValidateLoginFuntionality@6973b51b]" started-at="2024-05-25T12:42:39 IST" name="closeDriverInstance" finished-at="2024-05-25T12:42:39 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- org.automation.testing.testcases.TC_001_ValidateLoginFuntionality -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
